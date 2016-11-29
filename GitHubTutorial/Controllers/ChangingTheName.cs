@@ -23,7 +23,7 @@ namespace GitHubTutorial.Controllers
         }
 
         public class StuffThatIsAddedFromOtherUsers {
-
+            //Putting Stuff Here
         }
 
     }
