@@ -21,7 +21,7 @@ namespace GitHubTutorial.Controllers
             //For this example, the above values are in Master.
             //I'm changing it to below plus adding another variable.
 
-            var x = 13;
+            var x = 133;
             var y = 5213;
             var BranchAdded = 123;
             return View();
